@@ -1,5 +1,5 @@
 ## Ex. No: 7 – Configure Initial Router Settings
-# Date: ___________
+# Date: 24.11.2026
 ________________________________________
 # Objective
 To perform basic router configuration tasks in Cisco Packet Tracer including:<br>
@@ -16,7 +16,7 @@ ________________________________________<br>
 •	Console cable (RS-232 to Console)<br>
 ________________________________________<br>
 # Network Topology Diagram
-(Insert your Packet Tracer screenshot here showing Router R1 and PC with console connection)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3eac190a-29ed-415b-b8cf-9e9ba6e77da6" />
 ________________________________________
 # Procedure
 # Part 1: Verify the Default Router Configuration
@@ -80,10 +80,16 @@ ________________________________________
 ________________________________________
 # Output (Attach Screenshots)
 •	Console connection to router<br>
+<img width="1920" height="1080" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/5665aa9f-8227-45a4-aa80-8e763461f191" />
+
 •	Running configuration before and after<br>
 •	MOTD banner display<br>
 •	Password prompts<br>
+<img width="1920" height="1080" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/088b6fd7-f9a3-42e2-a8fc-8b6648440a1e" />
+
 •	Saved configuration in NVRAM and flash<br>
+<img width="1920" height="1080" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/024dd8e2-c0e3-4407-8308-75dcece7e8ea" />
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
